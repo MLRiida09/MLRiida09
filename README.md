@@ -1,6 +1,13 @@
-# 👋 Hi, I'm  Rida Mellal
+# 👋 Hi, I'm Rida Mellal
 
-**Automation & Industrial IT Graduate | Full-Stack Developer**
+**Automation & Industrial IT Graduate | Full-Stack Developer**  
+📍 Blida, Algeria
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Industrial+Automation+Engineer;Full-Stack+Web+Developer;PLC+Programming+Expert;IoT+Solutions+Developer" alt="Typing SVG" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 Bridging the gap between industrial automation and modern web technologies. I specialize in creating robust automation solutions and scalable web applications.
 
@@ -74,15 +81,23 @@ My background combines the precision and reliability requirements of industrial 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MLRiida09&show_icons=true&theme=radical)
+![Rida's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLRiida09&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MLRiida09&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rida-mellal)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mellala40@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLRiida09)
+
+</div>
+
 - 💼 Open to collaboration on industrial automation and web development projects
 - 🌍 Interested in Industry 4.0, IoT, and digital transformation initiatives
-- 📫 Reach me at: [your.email@example.com]
+- 📫 Reach me at: mellala40@gmail.com
 - 💬 Let's discuss how automation and web technologies can work together
 
 ---
