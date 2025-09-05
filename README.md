@@ -4,7 +4,7 @@
 📍 Blida, Algeria
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Industrial+Automation+Engineer;Full-Stack+Web+Developer;PLC+Programming+Expert;IoT+Solutions+Developer" alt="Typing SVG" />
+  <img src="https://i.gifer.com/bJk.gif" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBtcHJnMDU4dTNmanV4aHNza2FkcDlyMzFmbTdvNGsyb2tyZHlrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif"/>
