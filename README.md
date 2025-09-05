@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src=https://i.gifer.com/bJk.gif"/>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/bJk.gif"/>
 
 Bridging the gap between industrial automation and modern web technologies. I specialize in creating robust automation solutions and scalable web applications.
 
