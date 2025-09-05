@@ -3,11 +3,9 @@
 **Automation & Industrial IT Graduate | Full-Stack Developer**  
 📍 Blida, Algeria
 
-<div align="center">
-  <img src="https://i.gifer.com/bJk.gif" alt="Typing SVG" />
-</div>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBtcHJnMDU4dTNmanV4aHNza2FkcDlyMzFmbTdvNGsyb2tyZHlrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif"/>
+
+<img align="right" alt="Coding" width="400" src=https://i.gifer.com/bJk.gif"/>
 
 Bridging the gap between industrial automation and modern web technologies. I specialize in creating robust automation solutions and scalable web applications.
 
