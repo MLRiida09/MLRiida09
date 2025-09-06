@@ -5,9 +5,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/bJk.gif"/>
-
-Bridging the gap between industrial automation and modern web technologies. I specialize in creating robust automation solutions and scalable web applications.
+I build engaging websites and mobile apps that bring ideas to life
 
 ## 🏭 Industrial Automation Expertise
 
@@ -52,13 +50,13 @@ backend_stack = {
 
 ## 🛠️ Tech Stack Highlights
 
-| Industrial Automation | Web Development |
-|----------------------|-----------------|
-| ![Siemens](https://img.shields.io/badge/Siemens-009999?style=flat&logo=siemens&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
-| ![Allen Bradley](https://img.shields.io/badge/Allen_Bradley-FF6600?style=flat&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) |
-| ![Mitsubishi](https://img.shields.io/badge/Mitsubishi-CC0000?style=flat&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
-| ![Omron](https://img.shields.io/badge/Omron-0066CC?style=flat&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| ![Schneider](https://img.shields.io/badge/Schneider_Electric-3DCD58?style=flat&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
+ | Web Development |
+|-----------------|
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) |
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
 
 ## 🎯 What I Do
 
