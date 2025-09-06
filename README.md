@@ -5,7 +5,7 @@
 
 
 
-I build engaging websites and mobile apps that bring ideas to life
+I build engaging websites and mobile apps that bring ideas to life and i hold a Master’s degree in Industrial Automation and Industrial Computing . 
 
 ## 🏭 Industrial Automation Expertise
 
@@ -50,30 +50,16 @@ backend_stack = {
 
 ## 🛠️ Tech Stack Highlights
 
- | Web Development |
-|-----------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) |
-| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
+
 
 ## 🎯 What I Do
 
-- **🏭 Industrial Automation**: Design and implement PLC-based control systems for manufacturing processes
-- **🌐 Web Development**: Build modern, responsive web applications with cutting-edge technologies
-- **🔗 IoT Integration**: Connect industrial systems with web-based monitoring and control interfaces
-- **📊 Data Visualization**: Create dashboards for industrial data monitoring and analysis
-- **⚙️ System Integration**: Bridge OT (Operational Technology) and IT (Information Technology) systems
+- **🏭 Industrial Automation**
+- **🌐 Web Development**
+- **🔗 IoT Integration**
+- **📊 Data Visualization**
+- **⚙️ System Integration**
 
-## 🌟 Unique Value Proposition
-
-My background combines the precision and reliability requirements of industrial automation with the innovation and scalability of modern web development. This unique perspective allows me to:
-
-- Develop web-based SCADA and HMI applications
-- Create IoT solutions for industrial monitoring
-- Build robust, real-time data processing systems
-- Design APIs for industrial equipment integration
 
 ## 📈 GitHub Stats
 
