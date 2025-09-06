@@ -84,4 +84,4 @@ backend_stack = {
 
 ---
 
-*"Automating the industrial world, one line of code at a time."*
+
