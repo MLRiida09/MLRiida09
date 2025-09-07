@@ -76,8 +76,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
 
-<p align="left">🤝 Let's Connect  <br><br>🟦 [LinkedIn](https://linkedin.com/in/rida-mellal)  <br>📧 [Email](mailto:mellala40@gmail.com)  <br>🐙 [GitHub](https://github.com/MLRiida09)</p>
+## 📫 Contact Me  
 
-###
