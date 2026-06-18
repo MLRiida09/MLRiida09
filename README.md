@@ -1,4 +1,3 @@
-
 <img src="header.svg" />
 
 **Automation & Industrial IT Graduate | Full-Stack Developer**  
