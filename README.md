@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Industrial+Automation+Engineer;Full-Stack+Web+Developer;PLC+Programming+Expert;IoT+Solutions+Developer" alt="Typing SVG" />
-</div>
+<img src="header.svg" />
 
 **Automation & Industrial IT Graduate | Full-Stack Developer**  
 📍 Blida, Algeria
