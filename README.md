@@ -1,5 +1,4 @@
-<img src="Header.svg" />
-
+<img src="Header.svg" width="100%"/>
 **Automation & Industrial IT Graduate | Full-Stack Developer**  
 📍 Blida, Algeria
 
