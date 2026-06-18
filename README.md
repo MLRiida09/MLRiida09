@@ -1,10 +1,7 @@
 <img src="Header.svg" width="100%"/>
+
 **Automation & Industrial IT Graduate | Full-Stack Developer**  
 📍 Blida, Algeria
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Industrial+Automation+Engineer;Full-Stack+Web+Developer;PLC+Programming+Expert;IoT+Solutions+Developer" alt="Typing SVG" />
-</div>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBtcHJnMDU4dTNmanV4aHNza2FkcDlyMzFmbTdvNGsyb2tyZHlrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif"/>
 
@@ -21,6 +18,10 @@ Bridging the gap between industrial automation and modern web technologies. I sp
 
 ### PLC Platforms & Systems
 - **🔹 Siemens** - TIA Portal, STEP 7, WinCC
+- **🔸 Rockwell Automation / Allen Bradley** - Studio 5000, FactoryTalk
+- **🔹 Mitsubishi Electric** - GX Works, iQ Platform
+- **🔸 Omron** - CX-Programmer, Sysmac Studio
+- **🔹 Schneider Electric** - Unity Pro, EcoStruxure
 
 ## 💻 Full-Stack Development Skills
 
@@ -45,7 +46,7 @@ backend_stack = {
 ### Database Systems
 - **📊 SQL Databases**: MySQL, PostgreSQL
 - **📈 NoSQL Databases**: MongoDB
-
+- **⚡ In-Memory**: Redis
 
 ## 🛠️ Tech Stack Highlights
 
@@ -76,13 +77,14 @@ My background combines the precision and reliability requirements of industrial 
 
 ## 📈 GitHub Stats
 
+![Rida's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLRiida09&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MLRiida09&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rida-mellal)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mellala40@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLRiida09)
