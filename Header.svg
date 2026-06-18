@@ -1,0 +1,26 @@
+<svg width="600" height="160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000">
+        <animate attributeName="stop-color"
+          values="#ff0000;#ff7700;#ffff00;#00cc00;#0088ff;#6600cc;#cc00cc;#ff0000"
+          dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#0088ff">
+        <animate attributeName="stop-color"
+          values="#0088ff;#6600cc;#cc00cc;#ff0000;#ff7700;#ffff00;#00cc00;#0088ff"
+          dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#cc00cc">
+        <animate attributeName="stop-color"
+          values="#cc00cc;#ff0000;#ff7700;#ffff00;#00cc00;#0088ff;#6600cc;#cc00cc"
+          dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text x="0" y="45" font-family="monospace" font-size="28" font-weight="bold" fill="url(#rainbow)">Hey I am Mellal Rida</text>
+  <text x="0" y="85" font-family="monospace" font-size="18" font-weight="bold" fill="url(#rainbow)">Industrial Automation Engineer</text>
+  <text x="0" y="115" font-family="monospace" font-size="18" font-weight="bold" fill="url(#rainbow)">Full-Stack Web Developer</text>
+  <text x="0" y="145" font-family="monospace" font-size="18" font-weight="bold" fill="url(#rainbow)">PLC Programming Expert</text>
+</svg>
