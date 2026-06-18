@@ -22,10 +22,6 @@ Bridging the gap between industrial automation and modern web technologies. I sp
 
 ### PLC Platforms & Systems
 - **🔹 Siemens** - TIA Portal, STEP 7, WinCC
-- **🔸 Rockwell Automation / Allen Bradley** - Studio 5000, FactoryTalk
-- **🔹 Mitsubishi Electric** - GX Works, iQ Platform
-- **🔸 Omron** - CX-Programmer, Sysmac Studio
-- **🔹 Schneider Electric** - Unity Pro, EcoStruxure
 
 ## 💻 Full-Stack Development Skills
 
@@ -50,7 +46,7 @@ backend_stack = {
 ### Database Systems
 - **📊 SQL Databases**: MySQL, PostgreSQL
 - **📈 NoSQL Databases**: MongoDB
-- **⚡ In-Memory**: Redis
+
 
 ## 🛠️ Tech Stack Highlights
 
@@ -81,7 +77,6 @@ My background combines the precision and reliability requirements of industrial 
 
 ## 📈 GitHub Stats
 
-![Rida's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLRiida09&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MLRiida09&layout=compact&theme=radical)
 
