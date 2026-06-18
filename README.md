@@ -10,18 +10,8 @@ Bridging the gap between industrial automation and modern web technologies. I sp
 ## 🏭 Industrial Automation Expertise
 
 ### Programming Languages & Standards
-- **Ladder Logic (LAD)** - Industrial control logic design
-- **Function Block Diagram (FBD)** - Modular automation programming
-- **Structured Text (ST)** - High-level PLC programming
-- **Instruction List (IL)** - Low-level control programming
-- **Sequential Function Chart (SFC)** - Process automation sequencing
-
-### PLC Platforms & Systems
 - **🔹 Siemens** - TIA Portal, STEP 7, WinCC
-- **🔸 Rockwell Automation / Allen Bradley** - Studio 5000, FactoryTalk
-- **🔹 Mitsubishi Electric** - GX Works, iQ Platform
-- **🔸 Omron** - CX-Programmer, Sysmac Studio
-- **🔹 Schneider Electric** - Unity Pro, EcoStruxure
+- ** (LAD) (FBD) (ST) (IL) (SFC) **
 
 ## 💻 Full-Stack Development Skills
 
@@ -68,8 +58,6 @@ backend_stack = {
 
 ## 🌟 Unique Value Proposition
 
-My background combines the precision and reliability requirements of industrial automation with the innovation and scalability of modern web development. This unique perspective allows me to:
-
 - Develop web-based SCADA and HMI applications
 - Create IoT solutions for industrial monitoring
 - Build robust, real-time data processing systems
@@ -94,8 +82,6 @@ My background combines the precision and reliability requirements of industrial 
 - 💼 Open to collaboration on industrial automation and web development projects
 - 🌍 Interested in Industry 4.0, IoT, and digital transformation initiatives
 - 📫 Reach me at: mellala40@gmail.com
-- 💬 Let's discuss how automation and web technologies can work together
-
 ---
 
 *"Automating the industrial world, one line of code at a time."*
