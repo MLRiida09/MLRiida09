@@ -14,11 +14,6 @@ const skills = {
     styling: ['Tailwind CSS', 'SASS/SCSS']
 }
 ```
-
-
-
-
-
-##  Let's Connect :  mail me in mlrida@outlook.com 
+Let's Connect :  mail me in mlrida@outlook.com 
 
 </div>
