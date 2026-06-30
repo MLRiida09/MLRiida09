@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBtcHJnMDU4dTNmanV4aHNza2FkcDlyMzFmbTdvNGsyb2tyZHlrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif"/>
 
-## 💻 Frontend Skills
+## Frontend Skills
 
 ```javascript
 const skills = {
@@ -21,12 +21,6 @@ const skills = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MLRiida09&layout=compact&theme=radical)
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlrida0@outlook.com)
-
+## 🤝 Let's Connect mail me in mlrida@outoll.com 
 
 </div>
