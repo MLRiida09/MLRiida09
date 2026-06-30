@@ -15,12 +15,10 @@ const skills = {
 }
 ```
 
-## 📈 GitHub Stats
 
-![Rida's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLRiida09&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MLRiida09&layout=compact&theme=radical)
 
-## 🤝 Let's Connect mail me in mlrida@outlook.com 
+
+##  Let's Connect :  mail me in mlrida@outlook.com 
 
 </div>
